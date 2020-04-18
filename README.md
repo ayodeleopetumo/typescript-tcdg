@@ -1,1 +1,3 @@
 # typescript-tcdg
+
+## Setting up
